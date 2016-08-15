@@ -1,4 +1,4 @@
-
+##  SHA-1 : 97e5702678c1972e86a2384f3f8e058c10c61294
 ## Below are 2 functions that are used to create a special "matrix" object that can cache its inverse.
 ## The first function, "makeCacheMatrix", creates a special "matrix", which contains a function to
 ##1. set value of the matrix
